@@ -1,1 +1,1 @@
-# AI-Course-Crash-Course
+# AI-Crash-Course
